@@ -1,0 +1,1 @@
+C:\Users\Anthony\Desktop\Programming\C# Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
